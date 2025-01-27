@@ -1,0 +1,7 @@
+venv/
+*.xml
+*.json
+*.csv
+*.log
+__pycache__
+*.pyc
